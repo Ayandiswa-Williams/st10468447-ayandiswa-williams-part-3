@@ -24,3 +24,7 @@ All notable changes to this project will be documented in this file.
 - Built responsive navigation bar.
 - Uploaded screenshots of responsive layouts for evidence.  
 **Commit:** c3d4e5f
+
+## 2025-11-06
+-Made a new html file(services)
+-
