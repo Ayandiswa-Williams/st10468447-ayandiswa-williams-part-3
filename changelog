@@ -1,0 +1,57 @@
+
+Date: 2025-11-01
+
+Fixed Part 2 issues: Improved responsiveness, corrected colours, and repaired broken links.
+Files: HTML pages, css/style.css
+
+Date: 2025-11-02
+
+Added Lightbox Gallery: Enabled images to open in a popup when clicked.
+Files: services.html, js/scripts.js, css/style.css
+
+Date: 2025-11-03
+
+Added Google Map: Embedded an interactive Google Map on the contact page.
+Files: contact.html
+
+Date: 2025-11-04
+
+Added Search Filter: Created a real-time search/filter for services.
+Files: services.html, js/scripts.js
+
+Date: 2025-11-05
+
+Improved Enquiry Form: Added validation and custom JavaScript response message.
+Files: enquiry.html, js/scripts.js
+
+Date: 2025-11-06
+
+Enabled Email Form: Connected contact form to Formspree for email submissions.
+Files: contact.html
+
+Date: 2025-11-07
+
+Added SEO Tags: Updated title tags, meta 
+
+descriptions, and heading structure.
+Files: All HTML pages
+
+
+Date: 2025-11-08
+
+Optimised Images: Renamed image files and added alt text for SEO.
+Files: images/, gallery/service pages
+
+
+Date: 2025-11-09
+
+Added SEO Files: Created robots.txt and sitemap.xml.
+Files: Root folder
+
+
+Date: 2025-11-10
+
+Updated Documentation: Added Part 3 
+
+explanations and changelog to README.
+Files: README.md
